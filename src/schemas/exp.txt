@@ -1,0 +1,1 @@
+para validar los datos cuando lleguen a al backend, que no haya un campo vacio o algun caracter incorrecto, etc

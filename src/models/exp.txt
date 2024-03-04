@@ -1,0 +1,1 @@
+aqui creamos modelos para decirle a mongoDB que tipo de datos queremos guardar si no cumple con los datos modelo de aqui da un error

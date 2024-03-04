@@ -1,0 +1,1 @@
+aqui se guardaran funciones que se ejecutaran cuando visiten una ruta, se almacena el codigo de las routes
